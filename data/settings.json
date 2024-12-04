@@ -1,0 +1,30 @@
+{
+  "sidebar": [
+    {
+      "section": "Introduction",
+      "topics": [
+        {
+          "title": "About",
+          "slug": "about"
+        },
+        {
+          "title": "Contact",
+          "slug": "contact"
+        }
+      ]
+    },
+    {
+      "section": "JS-Projects",
+      "topics": [
+        {
+          "title": "Theme configuration",
+          "slug": "theme-configuration"
+        },
+        {
+          "title": "Forestry CMS",
+          "slug": "forestry-cms"
+        }
+      ]
+    }
+  ]
+}
